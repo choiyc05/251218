@@ -79,4 +79,7 @@
     .lh-sm,line-height: 1.25 !important;,좁은 간격
     .lh-base,line-height: 1.5 !important;,기본 간격 (본문에 최적화)
     .lh-lg,line-height: 2 !important;,넓은 간격
+ 
+## 그리드 예시
+    https://www.w3schools.com/bootstrap5/bootstrap_grid_basic.php
             
