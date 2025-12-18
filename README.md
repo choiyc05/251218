@@ -9,7 +9,7 @@
     4: 1.5rem (24px)
     5: 3rem (48px)
 
-    padding
+    padding (p*-*) // margin (m*-*)
     pt-3,Top (상),위쪽 패딩만 적용
     pb-3,Bottom (하),아래쪽 패딩만 적용
     ps-3,Start (좌),왼쪽 패딩만 적용 (LTR 기준)
@@ -25,4 +25,11 @@
     left: 0; right: 0; bottom: 0;, start-0 end-0 bottom-0, 위치값을 0으로 고정
     z-index: 1;, z-1, Bootstrap 5.3부터 지원되는 z-index 클래스
 
+    클래스,투명도 수치
+    bg-dark <색과 같이 적용 
+    bg-opacity-10,10% 투명도
+    bg-opacity-25,25% 투명도
+    bg-opacity-50,50% 투명도
+    bg-opacity-75,75% 투명도
+    bg-opacity-100,100% (불투명)
     
